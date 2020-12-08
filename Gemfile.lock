@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    plotby (0.1.0)
+    plotby (0.1.1)
       rails (~> 6.0.3, >= 6.0.3.4)
 
 GEM

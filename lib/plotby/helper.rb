@@ -1,3 +1,5 @@
+require_relative 'charts'
+
 module Plotby
   module Helper
     def line_chart(data_source, **options)
